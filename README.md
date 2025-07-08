@@ -37,15 +37,3 @@ A feature-rich Discord moderation bot with slash commands, built with discord.py
 | `/userinfo` | Get user details | `/userinfo member: @user` |
 | `/serverinfo` | Get server stats | `/serverinfo` |
 
-## Installation 🛠️
-
-### Prerequisites
-- Python 3.8+
-- Discord bot token
-- discord.py 2.0+
-
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/discord-moderation-bot.git
-   cd discord-moderation-bot
